@@ -28,7 +28,7 @@ export function Navbar() {
             Projects
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/her0x00"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white bg-black hover:bg-gray-800 transition-colors px-4 py-2 rounded-md text-sm font-medium"
