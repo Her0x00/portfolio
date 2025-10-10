@@ -5,16 +5,16 @@ import AboutSkillbar from "./AboutSkillbar";
 
 export function About() {
 
-    const skills = [
-        { skill: "Problem Solving", level: 90 },
-        { skill: "Team Collaboration", level: 90 },
-        { skill: "Learning Agility", level: 85 },
-    ]
+  const skills = [
+    { skill: "Problem Solving", level: 90 },
+    { skill: "Team Collaboration", level: 90 },
+    { skill: "Learning Agility", level: 85 },
+  ]
 
   return (
     <section
       id="about"
-      className="max-w-6xl mx-auto px-6 py-24 mt-24"
+      className="max-w-6xl mx-auto px-6 py-18 mt-24"
     >
       <h2 className="text-4xl font-bold text-center mb-6">About Me</h2>
       <p className="text-center text-gray-600 max-w-2xl mx-auto mb-16">
@@ -28,7 +28,7 @@ export function About() {
           <h3 className="text-xl font-semibold mb-2">Education</h3>
           <p className="text-gray-600">
             Currently pursuing a Computer Science degree with a focus on web development and some cybersecurity.
-Over the past 3 years, I’ve been learning to build secure and modern web applications.
+            Over the past 3 years, I’ve been learning to build secure and modern web applications.
           </p>
         </div>
 
@@ -62,11 +62,11 @@ Over the past 3 years, I’ve been learning to build secure and modern web appli
           </p>
         </div>
         <div className=" max-w-md mx-auto mt-10">
-            {skills.map((s) => (
-                <AboutSkillbar key={s.skill} skill={s.skill} level={s.level} />
-            ))}
+          {skills.map((s) => (
+            <AboutSkillbar key={s.skill} skill={s.skill} level={s.level} />
+          ))}
         </div>
-        
+
       </div>
     </section>
   );

@@ -1,6 +1,8 @@
 "use client"
-// components/SkillBar.jsx
-export default function SkillBar({ skill, level }) {
+
+type Props = { skill: string; level: number }
+
+export default function SkillBar({ skill, level }: Props) {
   return (
     <div className="mb-2.5">
       <div className="flex justify-between mb-1">
