@@ -8,7 +8,7 @@ const skillcardProps = {
 }
 
 const CurrentlyLearning = {
-    learning: ["Machine Learning", "Rust", "Docker", "Cybersecurity"]
+    learning: ["Machine Learning", "Linux", "Docker", "Cybersecurity"]
 }
 
 export default function Skillstech() {

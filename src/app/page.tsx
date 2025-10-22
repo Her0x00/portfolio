@@ -4,6 +4,8 @@ import { MainPage } from "./components/Main";
 import { About } from "./components/About";
 import Skillstech from "./components/Skillstech";
 import Projects from "./components/Projects";
+import Footer from "./components/Footer";
+import FooterEnd from "./components/FooterEnd";
 
 export default function Home() {
   return (
@@ -13,6 +15,8 @@ export default function Home() {
       <About />
       <Skillstech />
       <Projects />
+      <Footer />
+      <FooterEnd />
     </div>
   )
 
