@@ -38,11 +38,11 @@ export default function Projects() {
 
                         <div className='w-full sm:w-1/2 md:w-1/3 lg:w-1/4'>
                             <ProjectCard
-                                image="/images/project1.jpg"
-                                title="Dice Rolling Game"
-                                description="A short game where you can roll a dice and try to get the highest score possible. Score is saved in a database. Built with React and TypeScript."
-                                projectUrl="https://github.com/Her0x00/dice-rolling-game"
-                                technologies={["React", "TypeScript", "NeonDB", "Tailwind CSS"]}
+                                image="/images/taskmanager1.jpg"
+                                title="Simple Task Manager"
+                                description="A web application to manage daily tasks with features like adding and deleting tasks. Built with javascript"
+                                projectUrl="https://github.com/Her0x00/task-manager"
+                                technologies={["Javascript", "HTML", "CSS", "LocalStorage"]}
                             />
                         </div>
                     </div>
