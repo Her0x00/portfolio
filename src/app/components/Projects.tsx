@@ -31,7 +31,7 @@ export default function Projects() {
                                 image="/images/project1.jpg"
                                 title="Dice Rolling Game"
                                 description="A short game where you can roll a dice and try to get the highest score possible. Score is saved in a database. Built with React and TypeScript."
-                                projectUrl="https://github.com/Her0x00/dice-rolling-game"
+                                projectUrl="https://dice-rolling-game-two.vercel.app"
                                 technologies={["React", "TypeScript", "NeonDB", "Tailwind CSS"]}
                             />
                         </div>
