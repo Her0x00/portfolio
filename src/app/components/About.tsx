@@ -44,7 +44,7 @@ export function About() {
           <Heart className="w-10 h-10 mx-auto text-primary mb-4" />
           <h3 className="text-xl font-semibold mb-2">Passion</h3>
           <p className="text-gray-600">
-            Love creating solutions that make people's lives easier and more enjoyable through technology.
+            Love creating solutions that make people&apos;s lives easier and more enjoyable through technology.
           </p>
         </div>
       </div>
@@ -58,7 +58,7 @@ export function About() {
             What began as simple HTML pages has evolved into a deep passion for web development and computer science.
             <br /><br />
             I believe in continuous learning and staying up-to-date with the latest technologies.
-            When I'm not coding, you can find me learning new things, and exploring different types of coding languages, cybersecurity and everything that comes to computers.
+            When I&apos;m not coding, you can find me learning new things, and exploring different types of coding languages, cybersecurity and everything that comes to computers.
           </p>
         </div>
         <div className=" max-w-md mx-auto mt-10">
