@@ -19,10 +19,10 @@ export default function Projects() {
                         <div className='w-full sm:w-1/2 md:w-1/3 lg:w-1/4'>
                             <ProjectCard
                                 image="/images/Auth.jpg"
-                                title="Github Auth and Todo App"
+                                title="GitHub Auth and Todo App"
                                 description="A github authentication and todo application built with React, TypeScript. Users can sign in with their GitHub accounts and manage their tasks efficiently."
                                 projectUrl="https://github.com/Her0x00/Auth-project-and-Todo-app."
-                                technologies={["React", "typeScript", "BetterAuth", "Tailwind CSS"]}
+                                technologies={["React", "TypeScript", "BetterAuth", "Tailwind CSS"]}
                             />
                         </div>
 
