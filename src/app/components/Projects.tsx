@@ -11,7 +11,7 @@ export default function Projects() {
                     {/* Section header */}
                     <div className='flex flex-col justify-center items-center'>
                         <h2 className='text-3xl md:text-4xl font-semibold'>Featured Projects</h2>
-                        <p className='text-center mt-5 text-gray-500'>Here are some of the projects I've worked on recently. Each project represents a unique <br /> challenge and learning opportunity in my development journey.</p>
+                        <p className='text-center mt-5 text-gray-500'>Here are some of the projects I&apos;ve worked on recently. Each project represents a unique <br /> challenge and learning opportunity in my development journey.</p>
                     </div>
 
                     {/* Projects Cards */}

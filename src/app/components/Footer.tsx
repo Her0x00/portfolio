@@ -39,7 +39,7 @@ export default function Footer() {
 
                 {/* Let's Connect */}
                 <div className="text-center md:text-left w-full md:w-1/3">
-                    <h2 className="text-xl font-semibold">Let's Connect</h2>
+                    <h2 className="text-xl font-semibold">Let&apos;s Connect</h2>
                     <p className="text-gray-500 text-sm mt-2">
                         Check out my work and connect with me on GitHub
                     </p>

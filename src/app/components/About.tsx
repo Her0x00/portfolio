@@ -28,7 +28,7 @@ export function About() {
           <h3 className="text-xl font-semibold mb-2">Education</h3>
           <p className="text-gray-600">
             Currently pursuing a Computer Science degree with a focus on web development and some cybersecurity.
-            Over the past 3 years, I’ve been learning to build secure and modern web applications.
+            Over the past 3 years, I&apos;ve been learning to build secure and modern web applications.
           </p>
         </div>
 

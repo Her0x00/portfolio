@@ -13,10 +13,10 @@ export function MainPage() {
           transition={{ duration: 1.5 }}
           className='flex flex-col text-center lg:text-left'
         >
-          <h1 className='text-4xl md:text-5xl lg:text-6xl font-semibold'>Hi, i'm Her0x</h1>
+          <h1 className='text-4xl md:text-5xl lg:text-6xl font-semibold'>Hi, i&apos;m Her0x</h1>
           <p className='text-xl md:text-2xl mt-4 mb-4 text-gray-500'>Computer Science Student & Web Developer</p>
           <p className='text-gray-500 text-sm md:text-base'>
-            I'm passionate about creating digital experiences that make
+            I&apos;m passionate about creating digital experiences that make
             <br className='hidden md:block' /> a difference. Currently studying Computer Science and building
             <br className='hidden md:block' /> projects that solve real-world problems.
           </p>
